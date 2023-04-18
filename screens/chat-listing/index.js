@@ -131,7 +131,7 @@ const styles = StyleSheet.create({
     shadowColor: "grey"
   },
   QUbNMDxM: {
-    color: "#fff"
+    color: "#ff0202"
   }
 });
 export default ChatListingScreen;
