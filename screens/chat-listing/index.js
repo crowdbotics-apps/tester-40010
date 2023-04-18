@@ -182,9 +182,9 @@ const chatListingItemStyles = StyleSheet.create({
     marginHorizontal: 15
   },
   username: {
-    fontSize: 40,
+    fontSize: 39,
     fontWeight: "bold",
-    color: "#111112"
+    color: "#ff00a3"
   },
   message: {
     fontSize: 14,
