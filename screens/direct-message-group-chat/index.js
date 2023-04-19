@@ -116,7 +116,7 @@ const DirectMessageForGroupChat = () => {
 
 const styles = StyleSheet.create({
   container: {
-    backgroundColor: "white",
+    backgroundColor: "#e64a4a",
     display: "flex",
     paddingVertical: 20,
     height: "100%"
